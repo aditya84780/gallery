@@ -112,27 +112,48 @@ top: -50px;
 
 }
 @media only screen and (max-width:896px){
-
+.back{
+  top: -290px;
+  left: 100px;
+}
+.next{
+  top: -290px;
+  left: 867px;
+}
 h2{
-  font-size: 80px;
-  margin-top: 200px;
+  display: block;
+  font-size: 90px;
+  margin-top: 100px;
+  width: 1000px;
+}
+.numbertext{
+  left: 230px;
 }
 .mySlides{
   display: inline-block;
-  width: 400px;
+  width: 1000px;
   text-align: center;
-  margin-left: 100px;
+  margin-left: 0;
+  margin-top: 300px;
 }
 .slideshow-container{
   margin-top: 200px;
 }
 .dot{
-  width: 69px;
-  height: 69px;
-  margin : 250px 20px 0 0;
+  width: 20px;
+  height: 20px;
+  margin : 300px 20px 0 0;
 }
-#dot1{
-  margin-left: 500px;
+.arse{
+  width: 1000px;
+  height: 300px;
+}
+.copy{
+  top: 150px;
+}
+.dotcon{
+  width: 1000px;
+  top: -250px
 }
 }
 

@@ -65,11 +65,11 @@ body{
 }
 
 
-.back:hover, .next:hover {
+/*.back:hover, .next:hover {
   background-color: darkslategray;
   color: whitesmoke;
 }
-
+*/
 
 .text {
   color: #f2f2f2;

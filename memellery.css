@@ -119,21 +119,21 @@ top: -50px;
 }
 .next{
   top: -290px;
-  left: 867px;
+  left: 800px;
   font-size:50px;
 }
 h2{
   display: block;
   font-size: 90px;
   margin-top: 100px;
-  width: 1000px;
+  width: 950px;
 }
 .numbertext{
   left: 230px;
 }
 .mySlides{
   display: inline-block;
-  width: 1000px;
+  width: 950px;
   text-align: center;
   margin-left: 0;
   margin-top: 300px;
@@ -148,7 +148,7 @@ h2{
 }
 .arse{
   position: fixed;
-  width: 1000px;
+  width: 950px;
   height: 300px;
   margin-top: 120px;
   bottom:0;
@@ -157,7 +157,7 @@ h2{
   top: 150px;
 }
 .dotcon{
-  width: 1000px;
+  width: 950px;
   top: -250px
 }
 }
